@@ -9,7 +9,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class RestaurantTest {
     Restaurant restaurant;
-    //REFACTOR ALL THE REPEATED LINES OF CODE
 
     //spoof variable acts as the menu selected by the user
     List<Item> spoof = new ArrayList<Item>();
